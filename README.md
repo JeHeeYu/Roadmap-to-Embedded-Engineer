@@ -209,6 +209,49 @@ PCB가 사용되는 업계에 따라 PCB의 구조 및 방향성이 달라집니
 </ul>
 </details>
 
+<details>
+  <summary><h3>FPGA Enginner</h3></summary>
+  
+  FPGA 엔지니어는 FPGA 칩(Xilinx, Zynq)에 프로그래밍 하는 업무를 진행합니다. 
+  <br>
+대표적인 HDL(Hardware Description Language) 중에서 Verilog와 VHDL을 사용합니다.
+<br>
+<br>
+일반적인 프로세서는 메모리에 있는 프로그램을 불러온 후 CPU에서 해독하여 작업을 실행하지만, FPGA는 아예 프로세서 내부 회로를 프로그램에 맞춰 설계하고 곧바로 병렬적으로 실행시키므로, 일반 MCU 구현보다 압도적으로 빠른 속도를 자랑한다.
+<br>
+<br>
+기본적인 MCU 기능에서부터 고속처리, 병렬처리, DSP 등 특정화된 시스템에서 사용하고 있습니다.
+
+### 하는 업무
+FPGA를 설계하는 일을 진행하며, 떄로는 하드웨어 or 펌웨어와 겸업하여 일을 진행합
+<br>
+관련 업무를 진행하기 위해 게이트, 하드웨어, 간단한 프로그래밍 지식이 필요합니다.
+<br>
+<br>
+FPGA를 사용하는 임베디드 시스템은 규모가 크고, 일반적이 아닌 특정한 스펙에 맞는 시스템에서 많이 사용합니다.
+<br>
+고속처리 또는 병렬처리, DSP와 같은 시스템이 필요한 연구소에서 근무하는 경우가 종종 있습니다.
+<br>
+<br>
+
+### 필요 기술
+  <ul>
+  <li><b>기본적인 프로그래밍 지식</b></li>
+  <li><b>디지털 회로와 논리 회로</b></li>
+  <li><b>Verilog, VHDL</b></li>
+  <li><b>ARM Architecture</b></li>
+  </ul>  
+
+### 배워두면 좋은 기술
+<ul>
+  <li><b>하드웨어 구조와 설계</b></li>
+  <li><b>펌웨어 작성 능력</b></li>
+  <li><b>회로 해석 능력</b></li>
+</ul>
+</ul>
+
+</details>
+
 ## :books:Recommended books
 |Name|Image|Type|Description|
 |:---:|:---:|:---:|---|
