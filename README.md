@@ -1,6 +1,6 @@
 # :notebook:Roadmap-to-Embedded-Engineer
 
-## Summary
+## :star:Summary
 이 Repository는 Embedded Software Enginner에 관한 로드맵 입니다.
 <br>
 다른 분야보다 상대적으로 입문하기 힘든 분야이기 때문에 누군가가 도움이 되었으면 하는 바람으로 작성한 지침서 입니다.
@@ -208,3 +208,9 @@ PCB가 사용되는 업계에 따라 PCB의 구조 및 방향성이 달라집니
 </ul>
 </ul>
 </details>
+
+## :books:Recommended books
+|Name|Image|Type|Description|
+|:---:|:---:|:---:|---|
+|[혼자 공부하는 C언어](https://product.kyobobook.co.kr/detail/S000001810156)|<img src="https://user-images.githubusercontent.com/87363461/207767700-72c700e6-09cf-4d7f-b7a6-646eee4afd6f.png" width="75" height="150">|Language|혼공 시리즈 중 하나로, C언어 입문 교재로 많이 사용되고 있는 교재이다.|
+|[윤성우의 열혈 C 프로그래밍](https://product.kyobobook.co.kr/detail/S000001589148)|<img src="https://user-images.githubusercontent.com/87363461/207768573-de33972b-4310-438c-9891-b635f882c7b5.png" width="75" height="150">|Language||
